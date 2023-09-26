@@ -10,7 +10,7 @@ Para começar com este projeto, siga estas etapas:
 Clone o repositório em sua máquina local:
 
 
-git clone https://github.com/seu-nome-de-usuário/BackEnd_CRUD.git
+git clone https://github.com/adekanbipedro/BackEnd_CRUD.git
 Abra o projeto em sua IDE Java preferida.
 
 Compile e execute o arquivo App.java para iniciar a aplicação CRUD.
