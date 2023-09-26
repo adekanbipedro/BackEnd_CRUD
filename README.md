@@ -53,6 +53,6 @@ Create a new branch for your feature or bug fix.
 Make your changes and test thoroughly.
 Create a pull request with a clear description of your changes.
 
-Thank you for using this CRUD project! If you have any questions or need further assistance, please feel free to contact the project maintainers.
+Thank you for using this CRUD project! If you have any questions or need further assistance, please feel free to contact me.
 
 Happy coding!
