@@ -1,0 +1,55 @@
+README - PTBR do Projeto CRUD
+
+Este é um projeto simples de CRUD (Criar, Ler, Atualizar, Excluir) implementado em Java. Ele permite que você gerencie registros de clientes usando uma interface de usuário baseada em texto por meio de caixas de diálogo JOptionPane.
+
+O projeto utiliza uma classe básica chamada Customer e uma interface para o acesso aos dados dos clientes (ICustomerDAO), com uma implementação específica usando o CustomerMapDAO.
+
+
+Para começar com este projeto, siga estas etapas:
+
+Clone o repositório em sua máquina local:
+
+
+git clone https://github.com/seu-nome-de-usuário/BackEnd_CRUD.git
+Abra o projeto em sua IDE Java preferida.
+
+Compile e execute o arquivo App.java para iniciar a aplicação CRUD.
+
+- Uso
+A aplicação oferece um menu simples baseado em texto por meio de caixas de diálogo JOptionPane. Siga as instruções na tela para interagir com o sistema. Você pode realizar as seguintes ações:
+
+Registrar: Adicionar um novo cliente ao banco de dados.
+Mostrar: Recuperar e exibir informações do cliente com base em seu ID.
+Excluir: Remover um cliente do banco de dados (não implementado neste código).
+Alterar: Atualizar informações do cliente (não implementado neste código).
+Sair: Sair da aplicação.
+
+
+- Funcionalidade
+
+Aqui está uma breve visão geral da estrutura de código e funcionalidade:
+
+A classe Customer representa informações do cliente e é usada para criar objetos de cliente.
+A interface ICustomerDAO define o contrato para operações de acesso aos dados.
+A classe CustomerMapDAO fornece uma implementação das operações de acesso aos dados usando um armazenamento de dados baseado em mapa.
+A classe App contém o método principal e a lógica da interface do usuário, permitindo que os usuários interajam com as operações CRUD por meio de caixas de diálogo JOptionPane.
+Você pode facilmente estender a funcionalidade implementando métodos adicionais na interface ICustomerDAO e fornecendo implementações correspondentes.
+
+-Contribuindo
+Contribuições para este projeto são bem-vindas. Você pode contribuir:
+
+Adicionando novos recursos ou melhorias.
+Corrigindo bugs.
+Aprimorando a interface do usuário.
+Refatorando o código para melhor legibilidade e manutenção.
+Siga estas etapas ao contribuir:
+
+Faça um fork do repositório.
+Crie um novo branch para sua funcionalidade ou correção de bug.
+Faça suas alterações e teste-as completamente.
+Crie um pull request com uma descrição clara de suas alterações.
+
+
+Obrigado por usar este projeto CRUD! Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato comigo.
+
+Bom Codigo!
